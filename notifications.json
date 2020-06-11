@@ -1,9 +1,9 @@
 {
-  "latest_app_version": 3,
+  "latest_app_version": 1,
   "changelog": [
    
     {
-      "ver": "1.2",
+      "ver": "1.2.2",
       "description": "Première version 08/06/2020."
     }
   ]
