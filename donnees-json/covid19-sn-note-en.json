@@ -1,7 +1,7 @@
 [
     {
         "codice": "pd-EN-0001",
-        "data": "2020-03-07T17:00:00",
+        "date": "2020-03-07T17:00:00",
         "dataset": "dati-province",
         "stato": "ITA",
         "codice_regione": 3,

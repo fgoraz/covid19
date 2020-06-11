@@ -1,6 +1,6 @@
 [
     {
-        "data": "2020-02-24T18:00:00",
+        "date": "2020-02-24T18:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 101,
         "terapia_intensiva": 26,
