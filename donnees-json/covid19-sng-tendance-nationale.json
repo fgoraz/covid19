@@ -1,0 +1,39 @@
+[
+    {
+        "data": "2020-02-24T18:00:00",
+        "state": "SN",
+        "hospitalisés_avec_symptomes": 101,
+        "therapie_intensive": 26,
+        "total_hospitalisés": 127,
+        "isoles_domicile": 94,
+        "total_positif": 221,
+        "changement_total_positif": 0,
+        "nouveau_positif": 221,
+        "decharge_gueri": 1,
+        "decede": 7,
+        "total_cas": 229,
+        "ecouvillons": 4324,
+        "cas_testes": null,
+        "note_fr": "",
+        "note_en": ""
+    },
+    {
+        "data": "2020-02-25T18:00:00",
+        "stato": "ITA",
+        "hospitalisés_avec_symptomes": 114,
+        "therapie_intensive": 35,
+        "total_hospitalisés": 150,
+        "isoles_domicile": 162,
+        "total_positif": 311,
+        "changement_total_positif": 90,
+        "nouveau_positif": 93,
+        "decharge_gueri": 1,
+        "decede": 10,
+        "total_cas": 322,
+        "ecouvillons": 8623,
+        "cas_testes": null,
+        "note_fr": "",
+        "note_en": ""
+    }
+    
+]
