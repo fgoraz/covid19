@@ -1,0 +1,8 @@
+{
+  "dernière_app_version": 1,
+  "changelog": [
+    {
+      "ver": "1.0.0",
+      "description": " 08/06/2020"
+    }
+]	
