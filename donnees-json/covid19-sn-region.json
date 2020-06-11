@@ -9,7 +9,7 @@
         "hospitalises_avec_symptomes": 5,
         "soin_intensif": 15,
         "total_hospitalises": 100,
-        "isoles_domicile": 75,
+        "sdf": 75,
         "total_positif": 13,
         "changement_total_positif": 0,
         "nouveau_positif": 0,
