@@ -1,0 +1,77 @@
+{
+  "latest_app_version": 22,
+  "changelog": [
+    {
+      "ver": "1.2.2",
+      "description": "-Aggiunta nuova misura (Casi Testati) fornita dalla Protezione Civile. Tale misura rappresenta gli individui distinti che sono stati sottoposti almeno una volta al tampone.\n\nNota: I primi dati di questa misura risalgono al 19/04/2020"
+    },
+    {
+      "ver": "1.2.1.1",
+      "description": "-Minor Fix"
+    },
+    {
+      "ver": "1.2.1",
+      "description": "-Aggiunta Dark Mode."
+    },
+    {
+      "ver": "1.2.0",
+      "description": "-Aggiunta visualizzazione temporale per i dati delle Province.\n-Aggiunta Icona per le province.\n-Fix visualizzazione avvisi multipli.\n-Aggiunto DatePicker per scegliere direttamente il giorno da visualizzare.\n-Possibilità di contattare lo sviluppatore dal Menu principale."
+    },
+    {
+      "ver": "1.1.8.1",
+      "description": "-Adesso è possibile premere le barre dell'istogramma Provinciale per visualizzare ulteriori dettagli.\n-Piccole migliorie grafiche."
+    },
+    {
+      "ver": "1.1.8",
+      "description": "-Aggiunta possibilità di confrontare la variazione percentuale delle misure nell'istogramma regionale. Adesso è anche possibile premere le barre dell'istogramma per visualizzare ulteriori dettagli.\n-Cambiate alcune icone\n\nNota: Questa funzionalità è stata aggiunta sono nell'istogramma relativo alle regioni in quanto le misure disponibili per le province sono poche e spesso poco affidabili."
+    },
+    {
+      "ver": "1.1.7",
+      "description": "-Aggiunta possbilità di cambiare il contesto dati direttamente dal grafico temporale."
+    },
+    {
+      "ver": "1.1.6.2",
+      "description": "-Fix dovuto al cambiamento del formato dati fornito dalla Protezione Civile."
+    },
+    {
+      "ver": "1.1.6.1",
+      "description": "-Fix crash nella selezione delle province."
+    },
+    {
+      "ver": "1.1.6",
+      "description": "-Migliorata visualizzazione presenza avvisi sui dati."
+    },
+    {
+      "ver": "1.1.5",
+      "description": "-Aggiunti avvisi relativi ai dati.\n\nNota: Se sono presenti avvisi sui dati visualizzati, vengono aggiunte delle icone vicino la data. È possibile premerle per visualizzare l'avviso."
+    },
+    {
+      "ver": "1.1.4.1",
+      "description": "-Minor Fix."
+    },
+    {
+      "ver": "1.1.4",
+      "description": "-Aggiunte statistiche.\n-Aggiunta possibilità di visualizzare o nascondere le informazioni extra (statistiche e dati provinciali).\n-Cambiate alcune icone"
+    },
+    {
+      "ver": "1.1.3",
+      "description": "-Gli Istogrammi possono essere ordinati per valori crescenti."
+    },
+    {
+      "ver": "1.1.2",
+      "description": "-Sbloccato orientamento grafici.\n-Migliorie minori."
+    },
+    {
+      "ver": "1.1.1",
+      "description": "-Aggiunta visualizzazione dei Nuovi Casi per Provincia (Dato calcolato a partire dai casi totali).\n-Minor refactor grafico.\n\nNota: I Nuovi Casi per Provincia possono risultare negativi in quanto a volte il Totale Casi di un giorno è inferiore al Totale Casi del giorno precedente a causa di una ridistribuzione dei dati."
+    },
+    {
+      "ver": "1.1.0",
+      "description": "-Aggiunta visualizzazione dei Totali Casi per Provincia (Unico dato fornito dalla Protezione Civile).\n-Aggiunto Istogramma per il confronto tra Province.\n-Minor refactor Grafico."
+    },
+    {
+      "ver": "1.0.3",
+      "description": "-È stata aggiunta la descrizione delle misure che viene visualizzata al click nell'elenco.\n-Aggiunto Changelog."
+    }
+  ]
+}
