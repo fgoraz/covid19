@@ -1,16 +1,16 @@
 [
     {
-        "codice": "pd-EN-0001",
+        "code": "pd-EN-0001",
         "date": "2020-03-07T17:00:00",
         "dataset": "dati-province",
-        "stato": "ITA",
-        "codice_regione": 3,
-        "regione": "Lombardia",
-        "codice_provincia": 17,
-        "provincia": "Brescia",
-        "sigla_provincia": "BS",
-        "tipologia_avviso": "partial data",
-        "avviso": "partial communication of data",
+        "etat": "ITA",
+        "code_region": 3,
+        "region": "Lombardia",
+        "code_departement": 17,
+        "departement": "Brescia",
+        "sigle_departement": "BS",
+        "type_avis": "partial data",
+        "avis": "partial communication of data",
         "note": "300 positive cases"
     }
 ]	

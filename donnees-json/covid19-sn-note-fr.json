@@ -1,16 +1,16 @@
 [
     {
-        "codice": "pd-IT-0001",
+        "code": "nt-FR-0001",
         "date": "2020-03-07T17:00:00",
-        "dataset": "dati-province",
-        "stato": "ITA",
-        "codice_regione": 3,
-        "regione": "Lombardia",
-        "codice_provincia": 17,
-        "provincia": "Brescia",
-        "sigla_provincia": "BS",
-        "tipologia_avviso": "dati parziali",
-        "avviso": "comunicazione parziale dei dati",
-        "note": "300 positive cases"
+        "dataset": "donnees département",
+        "etat": "SN",
+        "code_region": 1,
+        "region": "Dakar",
+        "code_departement": 1,
+        "departement": "Dakar",
+        "sigle_departement": "DK",
+        "type_avis": "donnnes partielles",
+        "avis": "comunication partielle des données",
+        "note": "10 cas positifs"
     }
 ]	

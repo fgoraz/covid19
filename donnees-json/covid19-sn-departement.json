@@ -1,16 +1,44 @@
 [
     {
         "date": "2020-02-24T18:00:00",
-        "stato": "ITA",
-        "codice_regione": 13,
-        "denominazione_regione": "Abruzzo",
-        "codice_provincia": 69,
-        "denominazione_provincia": "Chieti",
-        "sigla_provincia": "CH",
-        "lat": 42.35103167,
-        "long": 14.16754574,
-        "totale_casi": 0,
-        "note_it": "",
+        "etat": "SN",
+        "code_region": 1,
+        "nom_region": "Dakar",
+        "code_departement": 1,
+        "nom_departement": "Dakar",
+        "sigle_departement": "DK",
+        "lat": 14.7645042,
+        "long": -17.3660286,
+        "total_cas": 10,
+        "note_fr": "",
+        "note_en": ""
+    },
+	{
+        "date": "2020-02-24T18:00:00",
+        "etat": "SN",
+        "code_region": 1,
+        "nom_region": "Dakar",
+        "code_departement": 2,
+        "nom_departement": "Pikine",
+        "sigle_departement": "PK",
+        "lat": 14.758945,
+        "long": -17.402118,
+        "total_cas": 15,
+        "note_fr": "",
+        "note_en": ""
+    },
+	{
+        "date": "2020-02-24T18:00:00",
+        "etat": "SN",
+        "code_region": 1,
+        "nom_region": "Dakar",
+        "code_departement": 3,
+        "nom_departement": "Guédiawaye",
+        "sigle_departement": "GW",
+        "lat": 14.782820,
+        "long": -17.376013,
+        "total_cas": 5,
+        "note_fr": "",
         "note_en": ""
     }
-]	
+]
