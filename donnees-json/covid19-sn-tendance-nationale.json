@@ -1,5 +1,5 @@
 [
-{
+   {
         "date": "2020-06-10T10:00:00",
         "etat": "SN",
 		"total_hospitalises": 1702,
@@ -52,6 +52,6 @@
         "cas_testes":null,		
         "note_fr": "",
         "note_en": ""   
-    },
+    }
 	
 ]	
