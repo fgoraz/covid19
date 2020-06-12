@@ -1,19 +1,19 @@
 [
     {
-        "date": "2020-05-24T10:00:00",
+        "date": "2020-06-11T10:00:00",
         "etat": "SN",
         "hospitalises_avec_symptomes": 101,
-        "soin_intensif": 26,
+        "soin_intensif": 2,
         "total_hospitalises": 127,
         "sdf": 94,
-        "total_positif": 221,
+        "total_positif": 119,
         "changement_total_positif": 0,
-        "nouveau_positif": 221,
-        "decharge_gueri": 1,
-        "deces": 7,
+        "nouveau_positif": 119,
+        "decharge_gueri": 109,
+        "deces": 0,
         "total_cas": 229,
         "ecouvillon": 1024,
-        "cas_testes": null,
+        "cas_testes":1164,
         "note_fr": "",
         "note_en": ""
     }
