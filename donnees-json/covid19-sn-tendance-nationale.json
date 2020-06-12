@@ -1,5 +1,23 @@
 [
    {
+        "date": "2020-05-17T10:00:00",
+        "etat": "SN",
+		"total_cas": 2480,
+		"nouveau_positif": 51,
+		"soin_intensif": 9,
+		"total_hospitalises": 1481,
+		"sous_traitement": 1481,
+		"hospitalises_avec_symptomes": 1472,    		
+		"isoles_domicile": 0,
+		"total_declare_gueri": 973,
+		"total_deces": 25,
+        "nouveau_positif_actif": 27,
+        "ecouvillon": null,
+        "cas_testes":null,		
+        "note_fr": "",
+        "note_en": ""   
+    },
+   {
         "date": "2020-05-18T10:00:00",
         "etat": "SN",
 		"total_cas": 2544,
