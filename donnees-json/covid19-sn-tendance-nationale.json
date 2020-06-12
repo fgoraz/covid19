@@ -1,4 +1,22 @@
 [
+{
+        "date": "2020-06-10T10:00:00",
+        "etat": "SN",
+		"total_hospitalises": 1702,
+		"soin_intensif": 18,
+		"isoles_domicile": 0,
+		"hospitalises_avec_symptomes": 1684,  
+        "sous_traitement": 1702,  		
+		"total_cas": 4640,
+        "nouveau_positif": 124,
+		"total_declare_gueri": 2885,
+		"total_deces": 52,
+        "nouveau_positif_actif": 48,
+        "ecouvillon": 1005,
+        "cas_testes":null,		
+        "note_fr": "",
+        "note_en": ""   
+    }
     {
         "date": "2020-06-11T10:00:00",
         "etat": "SN",
@@ -34,5 +52,6 @@
         "cas_testes":null,		
         "note_fr": "",
         "note_en": ""   
-    }
+    },
+	
 ]	
