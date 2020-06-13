@@ -1,13 +1,9 @@
 {
-  "latest_app_version": 2,
+  "latest_app_version": 1,
   "changelog": [
    
     {
-      "ver": "1.1",
-      "description": "Première version 08/06/2020."
-    },
-	{
-      "ver": "1.0",
+      "ver": "1.2",
       "description": "Première version 08/06/2020."
     }
   ]
