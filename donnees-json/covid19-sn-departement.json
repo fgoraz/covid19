@@ -1,0 +1,16 @@
+[
+    {
+        "date": "2020-05-10T10:00:00",
+        "etat": "SN",
+        "code_region": 1,
+        "nom_region": "Dakar",
+        "code_departement": 4,
+        "nom_departement": "Rufisque",
+        "sigle_departement": "RK",
+        "lat": null,
+        "long": null,
+        "total_cas": 0,
+        "note_fr": "",
+        "note_en": ""
+    }
+]
