@@ -1,16 +1,16 @@
 [
     {
         "code": "nt-EN-0001",
-        "date": "2020-05-24T10:00:00",
+        "date": "2020-06-13T10:00:00",
         "dataset": "dept datas",
         "etat": "SN",
         "code_region": 1,
         "region": "Dakar",
-        "code_departement": 10,
+        "code_departement": 1,
         "departement": "Dakar",
-        "sigle_departement": "BS",
+        "sigle_departement": "DK",
         "type_avis": "partial data",
         "avis": "partial communication of data",
-        "note": "10 positive cases"
+        "note": "4 deceased"
     }
 ]	
