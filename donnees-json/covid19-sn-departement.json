@@ -4,7 +4,7 @@
         "etat": "SN",
         "code_region": 1,
         "nom_region": "Dakar",
-        "code_departement": null,
+        "code_departement": 1,
         "nom_departement": "Dakar(dpt)",
         "sigle_departement": "DK",
         "lat": 14.7645042,
