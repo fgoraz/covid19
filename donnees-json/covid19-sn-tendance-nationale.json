@@ -628,6 +628,23 @@
         "cas_testes":null,		
         "note_fr": "",
         "note_en": ""   
+    },
+{
+        "date": "2020-06-14T10:00:00",
+        "etat": "SN",
+		"total_cas": 5090,
+		"nouveau_positif": 94,
+		"soin_intensif": 22,
+		"total_hospitalises": 1685,
+		"sous_traitement": 1685,
+		"hospitalises_avec_symptomes": 1663,    		
+		"isoles_domicile": 0,
+		"total_declare_gueri": 3344,
+		"total_deces": 60,
+        "nouveau_positif_actif": -22,
+        "ecouvillon": null,
+        "cas_testes":null,		
+        "note_fr": "",
+        "note_en": ""   
     }
-	
 ]	
