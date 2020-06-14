@@ -10782,7 +10782,7 @@
 	{
         "date": "2020-06-14T10:00:00",
         "etat": "SN",
-        "code_region": 1,
+        "code_region": 0,
         "nom_region": "Dakar",
         "lat": null,
         "long": null,
@@ -10804,7 +10804,7 @@
    	{
         "date": "2020-06-14T10:00:00",
         "etat": "SN",
-        "code_region": 0,
+        "code_region": 1,
         "nom_region": "Dakar1",
         "lat": 14.7645042,
         "long": -17.3660286,
