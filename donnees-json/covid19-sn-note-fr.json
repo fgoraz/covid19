@@ -2,14 +2,14 @@
    {
         "code": "nt-FR-0001",
         "date": "2020-06-13T10:00:00",
-        "dataset": "donnees département",
+        "dataset": "données département",
         "etat": "SN",
         "code_region": 1,
         "region": "Dakar",
         "code_departement": 1,
         "departement": "Guédiawaye",
         "sigle_departement": "DK",
-        "type_avis": "donnnes partielles",
+        "type_avis": "donnnées partielles",
         "avis": "comunication partielle des données",
         "note": "Relâchement constaté"
     }
