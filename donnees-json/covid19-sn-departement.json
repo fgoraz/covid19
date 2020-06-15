@@ -22059,7 +22059,7 @@
         "sigle_departement": "DK",
         "lat": 14.782820,
         "long": -17.376013,
-        "total_cas": 0,
+        "total_cas": 2851,
         "note_fr": "",
         "note_en": ""
     },
@@ -22073,7 +22073,7 @@
         "sigle_departement": "PK",
         "lat": null,
         "long": null,
-        "total_cas": 0,
+        "total_cas": 122,
         "note_fr": "",
         "note_en": ""
     },
@@ -22087,7 +22087,7 @@
         "sigle_departement": "GW",
         "lat": 14.782820,
         "long": -17.376013,
-        "total_cas": 0,
+        "total_cas": 241,
         "note_fr": "",
         "note_en": ""
     },
@@ -22101,7 +22101,7 @@
         "sigle_departement": "RK",
         "lat": null,
         "long": null,
-        "total_cas": 0,
+        "total_cas": 142,
         "note_fr": "",
         "note_en": ""
     },
