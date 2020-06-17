@@ -682,5 +682,23 @@
         "cas_testes":0,		
         "note_fr": "",
         "note_en": ""   
+    },
+{
+        "date": "2020-06-17T10:00:00",
+        "etat": "SN",
+		"total_cas": 5369,
+		"nouveau_positif": 122,
+		"soin_intensif": 16,
+		"total_hospitalises": 1689,
+		"sous_traitement": 1689,
+		"hospitalises_avec_symptomes": 1673,    		
+		"isoles_domicile": 0,
+		"total_declare_gueri": 3606,
+		"total_deces": 73,
+        "nouveau_positif_actif": 38,
+        "ecouvillon": 0,
+        "cas_testes":0,		
+        "note_fr": "",
+        "note_en": ""   
     }	
 ]	
